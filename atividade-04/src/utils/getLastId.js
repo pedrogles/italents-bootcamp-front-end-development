@@ -1,0 +1,1 @@
+export const getLastId = (list) => list[list.length - 1]?.id;

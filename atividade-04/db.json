@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "name": "No mínimo, sete componentes estilizados e funcionais",
+      "done": true
+    },
+    {
+      "id": "2",
+      "name": "Trabalhar com props e children.",
+      "done": true
+    },
+    {
+      "id": "3",
+      "name": "Realizar integração com API com pelo menos 2 métodos HTTP (GET, POST, PUT/PATH e DELETE).",
+      "done": true
+    },
+    {
+      "id": "4",
+      "name": "Trabalhar com listas e formulários componetizados.",
+      "done": true
+    },
+    {
+      "id": "5",
+      "name": "Trabalhar com estados (useEstate).",
+      "done": true
+    },
+    {
+      "id": "6",
+      "name": "Usar o Hook useEffect para o controle do ciclo de vida dos componentes.",
+      "done": true
+    },
+    {
+      "id": "7",
+      "name": "Trabalhar com funções assíncronas (Promisses/Async/Await).",
+      "done": true
+    }
+  ]
+}
