@@ -1,0 +1,25 @@
+.to-do-list-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2rem;
+    background-color: transparent;
+    border: solid .2rem #010101;
+    color: #010101;
+    padding: 1rem 3rem;
+    list-style: none;
+    width: 80vw;
+    max-width: 60rem;
+    border-radius: .5rem;
+    flex-wrap: wrap;
+    overflow: hidden;
+    & .input-container {
+        display: flex;
+        gap: 1rem
+    }
+    & .buttons-container {
+        display: flex;
+        gap: .5rem
+    }
+};

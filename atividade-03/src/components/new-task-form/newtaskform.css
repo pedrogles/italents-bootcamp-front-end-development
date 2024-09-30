@@ -1,0 +1,21 @@
+.new-task-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    & .input-container {
+        display: flex;
+        flex-direction: column;
+        gap: .8rem;
+        & .input-label {
+            font-size: 1.4rem;
+            color: #010101;
+        };
+        & .input {
+            width: 80vw;
+            height: 3rem;
+            max-width: 60rem;
+            border-radius: .5rem;
+            padding: 0 .5rem;
+        }
+    };
+};
